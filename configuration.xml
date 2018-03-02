@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+   <mod href="file:/D:/starcraft2-2.0.6.25180-extracted/mods/Core.SC2Mod/"/>
+   <mod href="file:/D:/starcraft2-2.0.6.25180-extracted/mods/Liberty.SC2Mod/"/>
+   <mod href="file:/D:/starcraft2-2.0.6.25180-extracted/mods/Swarm.SC2Mod/"/>
+   <mod href="file:/D:/TestMap.SC2Map/"/>
+</configuration>

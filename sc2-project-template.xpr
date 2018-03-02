@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="19.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="sc2-project-template.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized version="19.0" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>key.xpath.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
+                        <String>xpath.proxy.ns.mappings</String>
+                        <String-array>
+                            <String>xs</String>
+                            <String>http://www.w3.org/2001/XMLSchema</String>
+                            <String>fn</String>
+                            <String>http://www.w3.org/2005/xpath-functions</String>
+                            <String>err</String>
+                            <String>http://www.w3.org/2005/xqt-errors</String>
+                            <String>math</String>
+                            <String>http://www.w3.org/2005/xpath-functions/math</String>
+                            <String>prov</String>
+                            <String>java:ro.sync.exml.workspace.api.PluginWorkspaceProvider</String>
+                            <String>editor-vars</String>
+                            <String>java:ro.sync.util.editorvars.EditorVariables</String>
+                            <String>work</String>
+                            <String>java:ro.sync.exml.workspace.api.PluginWorkspace</String>
+                            <String>file</String>
+                            <String>http://expath.org/ns/file</String>
+                            <String>map</String>
+                            <String>http://www.w3.org/2005/xpath-functions/map</String>
+                            <String>saxon</String>
+                            <String>http://saxon.sf.net/</String>
+                        </String-array>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="sc2-project-template.xpr">
+        <folder name="mods">
+            <folder path="file:/D:/starcraft2-2.0.6.25180-extracted/mods/Core.SC2Mod/"/>
+            <folder path="file:/D:/starcraft2-2.0.6.25180-extracted/mods/Liberty.SC2Mod/"/>
+            <folder path="file:/D:/starcraft2-2.0.6.25180-extracted/mods/Swarm.SC2Mod/"/>
+            <folder path="file:/D:/TestMap.SC2Map/"/>
+        </folder>
+        <folder path="."/>
+    </projectTree>
+</project>
